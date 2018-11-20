@@ -1,1 +1,1 @@
-# mystreem_peew
+worker: node bot.js 
