@@ -38,4 +38,4 @@ if (message.content.startsWith(adminprefix + 'av')) {
 });
 
 
-client.login(process.env.TOKEN);// لا تغير فيها شيء
+client.login(process.env.TOKEN3);// لا تغير فيها شيء
